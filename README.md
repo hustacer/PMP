@@ -1,2 +1,2 @@
 # PMP
-project management
+project management mind-map
